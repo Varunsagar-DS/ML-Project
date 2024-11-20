@@ -18,7 +18,7 @@ with tabs[0]:
     st.sidebar.write("Linkedin - [Varun Kumar Sagar](%s)"%Lurl)
     st.sidebar.write("GitHub - [VarunSagar-DS](%s)"%Gurl)
     st.sidebar.header("About Sentiment Analysis project")
-    st.sidebar.write('This is a machine learning project, in this project you have to give sentiments andit will reply with POSITIVE, NEGATIVE or NEUTRAL on basis of what kind of sentiment you gave.')
+    st.sidebar.write('This is a machine learning project, in this project you have to give sentiments and it will reply with POSITIVE, NEGATIVE or NEUTRAL on basis of what kind of sentiment you gave.')
 
 
     text=st.text_input("**Input text**")
